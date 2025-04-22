@@ -1,5 +1,5 @@
-[<div align="center">
-  <img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47xhqsyreltcpsus9sxjux0o7eear280cmokndeloc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJrdGY2aHp1amQxdjdxZDB5Mng3c2NjbHJ4bjduaWpldjRtNm5sYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 # 💫 Hi 👋, I'm Vansh Sehgal
