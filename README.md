@@ -1,6 +1,6 @@
-<div align="center">
+[<div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473fwpitza7za728rcqv8couj8352zcfckokdcoxwa&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-</div>
+</div>](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47xhqsyreltcpsus9sxjux0o7eear280cmokndeloc&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 # 💫 Hi 👋, I'm Vansh Sehgal
 A passionate Software Developer Engineer || Frontend Developer
