@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/vanshsehgal99/count.svg?"  />
 </div>
 
-#  Hi, I'm Vansh Sehgal
+#  Hi, I'm Vansh
 A passionate Software Developer Engineer || Frontend Developer
 
 Email Me 👉 ✉️ **vanshsehgal6267@gmail.com** For Collaboration/Project or Anything Else.
