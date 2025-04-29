@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **vanshsehgal6267@gmail.com** For Collaboration/Project or 
 - 📚 I'm currently learning DSA with C++
 - 🧠 I have a solid understanding of Computer Science Fundamentals
 - 🌱 Always eager to learn new technologies and improve as a developer
-- 🚀 Passionate about coding, problem-solving, and building cool stuff
+- 🚀 Passionate about coding, problem-solving, and building projects
 - 💻 I’ve built several frontend projects and enjoy bringing ideas to life through code
 - ⚡ In my free time I do GYM
 
