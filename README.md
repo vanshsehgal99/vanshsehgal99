@@ -10,7 +10,7 @@ A passionate Software Developer Engineer || Frontend Developer
 
 Email Me 👉 ✉️ **vanshsehgal6267@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🎓 BCA 2nd-year student passionate about coding and creating
+- 🎓 BCA Final year student passionate about coding and creating
 - 📚 I'm currently learning DSA with C++
 - 🧠 I have a solid understanding of Computer Science Fundamentals
 - 🌱 Always eager to learn new technologies and improve as a developer
