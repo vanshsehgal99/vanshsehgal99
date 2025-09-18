@@ -30,6 +30,7 @@ Email Me 👉 ✉️ **vanshsehgal6267@gmail.com** For Collaboration/Project or 
 - [TextLooper](https://vanshsehgal99.github.io/TextLooper/)
 - [QR Code Generator](https://vanshsehgal99.github.io/QR-Code-Generator/)
 - [Indyatra](https://vanshsehgal99.github.io/Indyatra-landing-page-/)
+- [Portfolio](https://vanshsehgal99.github.io/Portfolio/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
