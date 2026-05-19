@@ -6,17 +6,15 @@
 </div>
 
 #  Hi, I'm Vansh
-A passionate Software Developer Engineer || Frontend Developer
+A passionate Software Developer | Full-Stack Developer
 
 Email Me 👉 ✉️ **vanshsehgal6267@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🎓 BCA Final year student passionate about coding and creating
-- 📚 I'm currently learning DSA with C++
+- 📚 I'm currently learning AI/ML
 - 🧠 I have a solid understanding of Computer Science Fundamentals
 - 🌱 Always eager to learn new technologies and improve as a developer
 - 🚀 Passionate about coding, problem-solving, and building projects
 - 💻 I’ve built several frontend projects and enjoy bringing ideas to life through code
-- ⚡ In my free time I do GYM
 
 
 ## 🌐 Socials:
