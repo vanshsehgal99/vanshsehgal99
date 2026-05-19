@@ -5,8 +5,9 @@
   <img src="https://profile-counter.glitch.me/vanshsehgal99/count.svg?"  />
 </div>
 
-#  Hi, I'm Vansh
+#  Hi!
 A passionate Software Developer | Full-Stack Developer
+Full stack developer about to build modern and user-friendly web applications. I have a strong understanding of computer science fundamentals and experience working with frontend and backend technologies to create real-world projects. Along with full-stack development, I am also learning machine learning and exploring how intelligent systems can solve real-world problems. I enjoy problem-solving, learning new technologies, and continuously improving my development skills.
 
 Email Me 👉 ✉️ **vanshsehgal6267@gmail.com** For Collaboration/Project or Anything Else.
 
