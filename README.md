@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/vanshsehgal99/count.svg?"  />
-</div>
+</div> 
 
 #  Hi!
 A passionate Software Developer | Full-Stack Developer
